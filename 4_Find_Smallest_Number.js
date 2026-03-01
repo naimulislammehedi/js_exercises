@@ -1,3 +1,4 @@
+// Find Smallest Number
 function findMin(arr) {
     return Math.min(...arr); 
 }
